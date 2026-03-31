@@ -176,4 +176,11 @@ O aprendizado em dados não depende de talento extraordinário, mas sim de:
 ## ✍️ Autor
 
 Victor Matthaüs
-Engenheiro de Software em formação | Focado em Dados
+Engenheiro de Software em formação
+
+Link do Caderno Temático
+https://notebooklm.google.com/notebook/820463c4-e22f-4b13-8d41-314ae3a9c426
+
+
+
+
